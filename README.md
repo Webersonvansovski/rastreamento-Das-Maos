@@ -21,8 +21,8 @@
      - criar loop infinito para pegar vários frames
      - pegar o próximo frame da tela
      - converte BGR (padrão do opencv) para RGB (padrão mediapipe)
-     - desenhaer a mão
+     - desenhar a mão
      - mostrar o frame da webcam que o python ta vendo
-     - mandar o pyrhon esperar um pouco
+     - mandar o python esperar um pouco
      - mandar ele parar o código quando eu apertar a tecla ESC
      - desligar a conexão com a webcam
